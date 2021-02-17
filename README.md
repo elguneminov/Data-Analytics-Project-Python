@@ -1,1 +1,1 @@
-# Data-Analytics-Project-Python
+# 5 Data Analysis Projects with Plotly,Folium,TextBlob,Geopy & many more.
